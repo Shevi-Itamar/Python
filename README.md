@@ -1,6 +1,6 @@
 # WIT - Version Control System with Code Analysis Backend
 
-**Author:** Malki Lapidot  
+**Author:** Bat-Sheva Itamar  
 **Instructor:** Hadasa Avimor  
 **Course:** Basic Python Course - Final Project
 
